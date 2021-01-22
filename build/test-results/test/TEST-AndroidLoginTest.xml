@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AndroidLoginTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-22T23:34:26" hostname="ISW-ENGR-IY" time="428.843">
+  <properties/>
+  <testcase name="test1" classname="AndroidLoginTest" time="127.096"/>
+  <testcase name="test2" classname="AndroidLoginTest" time="108.393"/>
+  <testcase name="test3" classname="AndroidLoginTest" time="89.996"/>
+  <testcase name="test4" classname="AndroidLoginTest" time="103.358"/>
+  <system-out><![CDATA[Application Started....
+Succesfully Logged in
+Successfully Logged out
+Application Started....
+Alert
+Invalid login credentials, please try again
+Application Started....
+Alert
+Invalid login credentials, please try again
+Application Started....
+Selected Photo
+This is a picture of: Imposing mountains and West Vancouver
+]]></system-out>
+  <system-err><![CDATA[Jan 23, 2021 12:36:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 23, 2021 12:38:07 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 23, 2021 12:39:41 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jan 23, 2021 12:41:25 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

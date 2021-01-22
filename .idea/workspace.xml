@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7715e63-f42c-4e67-889f-f0ac2705df11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="65" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bootcamp" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nMFXxz60OdiiwPieC0iuL34HRn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Gradle.AndroidLoginTest">
+    <configuration name="AndroidLoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AndroidLoginTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AndroidLoginTest.testLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AndroidLoginTest.testLogin&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AndroidLoginTest" />
+        <item itemvalue="Gradle.AndroidLoginTest.testLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7715e63-f42c-4e67-889f-f0ac2705df11" name="Default Changelist" comment="" />
+      <created>1611192095301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611192095301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="-786" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611233794826">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state x="721" y="-786" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611233794826" />
+    <state x="630" y="-853" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1611231846162">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state x="630" y="-853" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611231846162" />
+    <state width="1815" height="386" key="GridCell.Tab.0.bottom" timestamp="1611358434894">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="386" key="GridCell.Tab.0.bottom/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611358434894" />
+    <state width="1778" height="295" key="GridCell.Tab.0.bottom/99.0.1821.1080/62.-1080.1858.1080@99.0.1821.1080" timestamp="1611214329497" />
+    <state width="1733" height="372" key="GridCell.Tab.0.bottom/99.0.1821.1080@99.0.1821.1080" timestamp="1611356257486" />
+    <state width="1815" height="386" key="GridCell.Tab.0.center" timestamp="1611358434894">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="386" key="GridCell.Tab.0.center/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611358434894" />
+    <state width="1778" height="295" key="GridCell.Tab.0.center/99.0.1821.1080/62.-1080.1858.1080@99.0.1821.1080" timestamp="1611214329497" />
+    <state width="1733" height="372" key="GridCell.Tab.0.center/99.0.1821.1080@99.0.1821.1080" timestamp="1611356257484" />
+    <state width="1815" height="386" key="GridCell.Tab.0.left" timestamp="1611358434893">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="386" key="GridCell.Tab.0.left/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611358434893" />
+    <state width="1778" height="295" key="GridCell.Tab.0.left/99.0.1821.1080/62.-1080.1858.1080@99.0.1821.1080" timestamp="1611214329496" />
+    <state width="1733" height="372" key="GridCell.Tab.0.left/99.0.1821.1080@99.0.1821.1080" timestamp="1611356257482" />
+    <state width="1815" height="386" key="GridCell.Tab.0.right" timestamp="1611358434894">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="386" key="GridCell.Tab.0.right/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611358434894" />
+    <state width="1778" height="295" key="GridCell.Tab.0.right/99.0.1821.1080/62.-1080.1858.1080@99.0.1821.1080" timestamp="1611214329497" />
+    <state width="1733" height="372" key="GridCell.Tab.0.right/99.0.1821.1080@99.0.1821.1080" timestamp="1611356257485" />
+    <state x="492" y="-898" key="SettingsEditor" timestamp="1611242567041">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state x="492" y="-898" key="SettingsEditor/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611242567041" />
+    <state x="373" y="-929" key="new project wizard" timestamp="1611236510959">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state x="373" y="-929" key="new project wizard/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611236510959" />
+    <state x="647" y="-289" key="run.anything.popup" timestamp="1611233360317">
+      <screen x="62" y="-1080" width="1858" height="1080" />
+    </state>
+    <state x="647" y="-289" key="run.anything.popup/99.0.1821.1080/62.-1080.1858.1080@62.-1080.1858.1080" timestamp="1611233360317" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bootcamp$AndroidLoginTest.ic" NAME="AndroidLoginTest Coverage Results" MODIFIED="1611230898914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
